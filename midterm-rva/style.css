@@ -1,0 +1,980 @@
+
+
+body{
+background-color:rgba(255, 255, 255, 1);
+}
+
+.redwrap
+{
+width: 2000px;
+height: 49px;
+margin-top: 20px;
+background-color:  rgba(214, 17, 32, 1);
+position: relative;
+right: 25px;
+
+}
+
+.linkglobewrap{
+width: 155px;
+height: 20px;
+display: inline-block;
+margin-left: 120px;
+}
+.globewrap{
+    display: inline-block;
+    padding-top: 15px;
+}
+.globe{
+    display: inline-block;
+    position: relative;
+}
+.linkwrap{
+ display: inline-block;
+ position: absolute;
+ margin-left: 5px;
+ top: 3px;
+}
+.link{
+    font-family:inter;
+    font-weight: 400;
+    font-style: Semi Bold;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 1);
+   
+}
+.textfacebooktwitterintgramwrap
+{
+width: 130px;
+height: 15px;
+display: inline-block;
+margin-left: 1050px;
+padding-left: 15px;
+}
+.twitter{
+margin-left: 3px;
+}
+.Instagram{
+    margin-left: 3px;
+    }
+.Followwrap{
+    display: inline-block;
+    position: absolute;
+    margin-left: 5px;
+    top: 3px;
+}
+.facebooktwitterintgramwrap{
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+.whitewrap{
+   
+    background-color: rgba(255, 255, 255, 1); 
+    width: 100%;
+    height: 87px;
+    position: relative;
+    right: 10px;
+    display: inline-block;
+}
+.NetBand{
+    font-family:inter;
+    font-size: 32px;
+    font-weight: 700;
+    font-style: bold;
+    color: rgba(212, 17, 26, 1); 
+    letter-spacing: 0%;
+}
+.netbandwrap
+{
+ width: 260px;
+ height: 53px;
+ margin-left: 100px;
+ display: inline-block;
+ position: absolute;
+ bottom: 45px;
+}
+.menu{
+    font-family: inter;
+    font-weight: 450;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.barmenu
+{
+list-style: none;
+text-align: center;
+}
+.barmenu>li{
+    display: inline-block;
+}
+.header>img{
+    display: inline-block;
+    
+}
+
+.down{
+position: relative; 
+top: 11px;
+right: 10px;
+}
+.cartearchmenu
+{
+position: absolute;
+   margin-left: 1320px;
+   bottom: 20px;
+}
+.cart{
+    position: relative;
+    padding-left: 2px;
+    display: inline-block;
+}
+.cart1{
+    position: relative;
+    display: inline-block;
+    right: 10px;
+}
+
+.cart5{
+    display: inline-block;
+    position: relative;
+    margin-left: 20px;
+}
+.num{
+    font-family: inter;
+    font-weight: 800;
+    color: rgba(255, 255, 255, 1);
+    font-style: bold;
+    font-size: 15px;
+    position: relative;
+    display: inline-block;
+    bottom: 16px;
+    margin-left: 4px;
+}
+.numwrapcolor{
+    display: inline-block;
+    position: relative;
+    width: 18px;
+    height: 18px; 
+    background-color:rgba(212, 17, 26, 1); 
+    border-radius: 100%;
+    bottom: 20px;
+    right: 20px; 
+}
+.pic{
+    width: 1912px;
+    height: 841px;
+    position: relative;
+    right: 8px;
+}
+.Streaming{
+    font-family: inter;
+    font-weight: 700;
+    font-size: 115px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+.Streamingwrap{
+    width: 981px;
+    display: inline-block;
+    position: relative;
+    margin-left: 400px;
+    bottom: 900px;
+}
+.picwrap{
+    display: inline-block;
+    position: relative;
+    width: 1815px;;
+}
+
+/* HOME */
+.alltext{
+    width: 668px;
+    height: 516px;
+    position: absolute;
+    bottom: 100px;
+    margin-left: 90px;
+    bottom: 300px;
+}
+.textjouney{
+    font-family: inter;
+    font-size: 100px;
+    font-weight: 700;
+    color:rgba(255, 255, 255, 1);
+}
+.journey{
+    width: 660px;
+    height: 185px;
+    position: absolute;
+    display: inline-block;
+}
+.textjouney2{
+    font-family: inter;
+    font-size: 100px;
+    font-weight: 700;
+    color:rgba(255, 255, 255, 1);
+   line-height:0%; 
+}
+.textjourneywrap{
+    position: relative;
+    bottom: 50px;
+}
+.fastspeedwrap{
+    width: 700px;
+    top: 350px;
+    position: relative;
+}
+.fastspeed{
+    position: relative;
+    font-family: inter;
+    font-size: 36px;
+    font-weight: 200;
+    font-style: light;
+    color: rgba(255, 255, 255, 1);
+    display: inline-block;
+    bottom: 50px;
+    
+}
+.pricemonth{
+    width: 374px;
+    height: 76px;
+    position: relative;
+}
+.price{
+    font-family: inter;
+    font-weight: 900;
+    font-style: black;
+    font-size: 64px;
+    color:  rgba(214, 17, 32, 1);
+    position: relative;
+    top: 210px;
+    display: inline-block;
+}
+.month{
+    font-family: inter;
+    font-size: 24px;
+    font-weight: 900;
+    color:rgba(255, 255, 255, 1);
+    position: relative;
+    top: 210px;
+    display: inline-block;
+
+}
+.redwrapper2{
+    
+    position: relative;
+    display: inline-block;
+   }
+.get
+{
+    font-family: inter;
+    font-weight: 900;
+    font-size: 20px;
+    color:  rgba(255, 255, 255, 1);
+    position: relative;
+    top: 250px;
+    display: inline-block;
+    background-color:  rgba(214, 17, 32, 1);
+    border-style: none;
+    width: 195px;
+    height: 65px;
+    top: 320px;
+    border-radius: 10px;
+}
+.allelement{
+    
+    top: 650px;
+    width: 2512px;
+    height: 1434px;
+    position: relative;
+    background-color: rgba(248, 248, 248, 1);
+    display: inline-block;
+    right: 8px;
+}
+.boxtextwrap
+{
+width: 1312px;
+height: 514px;
+border-color: rgb(201, 130, 38);
+position: relative;
+bottom: 590px;
+margin-left: 700px;
+}
+.textarea{
+    width: 405px;
+    height: 138px;
+    position: relative;
+    top: 200px;
+    text-align: center;
+}
+.SERVICE{
+    color: rgba(244, 34, 43, 1);
+    font-family: inter;
+    font-weight: 900;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.Enjoy{
+    font-family: inter;
+    font-weight: 700;
+    font-size: 32px;
+    position: relative;
+    bottom: 20px;
+}
+.div
+{
+width: 319px;
+height: 372px;
+box-shadow: 5px 5px 10px 5px gray;
+position: relative;
+right: 520px;
+display: inline-block;
+border-radius: 10px;
+
+}
+.divpic{
+    width: 99px;
+    padding-right: 150px;
+    position: relative;
+    top: 50px;
+}
+.broad{
+    font-family: inter;
+    font-weight: 800;
+    font-size: 25px;
+    width: 110px;
+    height: 25px;
+    left: 40px;
+    position: relative;
+    top: 50px;
+   
+}
+.descrip{
+    font-family: inter;
+    font-weight: 400;
+    font-size: 20px;
+    width: 268px;
+    height: 86px;
+    position: relative;
+    top: 60px;
+    left: 40px;
+    text-align: left;
+}
+.div2{
+width: 319px;
+height: 372px;
+background-color: RGB(214 17 32) ;
+box-shadow: 5px 5px 10px 5px gray;
+position: relative;
+right: 190px;
+display: inline-block;
+border-radius: 10px;
+bottom: 370px;
+}
+.WIFI{
+    font-family: inter;
+    font-weight: 800;
+    font-size: 25px;
+    width: 171px;
+    height: 25px;
+    left: 40px;
+    position: relative;
+    top: 50px;
+}
+
+.div3{
+width: 319px;
+height: 372px;
+box-shadow: 5px 5px 10px 5px gray;
+position: relative;
+left: 140px;
+display: inline-block;
+border-radius: 10px;
+bottom: 745px;
+}
+.Satellite{
+    font-family: inter;
+    font-weight: 800;
+    font-size: 25px;
+    width: 171px;
+    height: 25px;
+    left: 25px;
+    position: relative;
+    top: 50px;
+}
+.div4{
+width: 319px;
+height: 372px;
+box-shadow: 5px 5px 10px 5px gray;
+position: relative;
+left: 470px;
+display: inline-block;
+border-radius: 10px;
+bottom: 1115px;
+}
+.TV{
+    font-family: inter;
+    font-weight: 800;
+    font-size: 24px;
+    width: 110px;
+    height: 25px;
+    position: relative;
+    top: 50px;
+}
+
+.listpic
+{
+width: 656.78px;
+height: 739px;
+position: relative;
+display: inline-block;
+bottom: 200px;
+}
+.nosulod{
+    width: 461px;
+    height: 629px;
+    border: 3px solid rgba(212, 17, 26, 1);
+    position: relative;
+    display: inline-block;
+    left: 300px;
+    top: 50px;
+    
+}
+.familypic{
+    width: 500px;
+    height: 644px;
+    border-radius: 5px;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+    bottom: 660px;
+}
+.tvpic{
+    width: 224px;
+    height: 260px;
+    position: absolute;
+    display: inline-block;
+    bottom: 9px;
+}
+.smallredwrap{
+    width: 308px;
+    height: 225px;
+    background-color:  rgba(212, 17, 26, 1);
+    position: relative;
+    bottom: 1275px;
+    left: 125px;
+}
+.smallwhitewrap{
+    width: 78px;
+    height: 54px;
+    border-radius: 5px;
+    position: relative;
+    background-color:  rgba(255, 255, 255, 1);
+    bottom: 90px;
+    margin-left: 209px;
+    bottom: 275px;
+    display: inline-block;
+}
+.warning{
+position: absolute;
+padding-left: 55px;
+}
+.rate{
+    font-family: inter; 
+    font-weight: 700;
+    font-style: bold;
+    font-size: 24px;
+    color:rgba(214, 17, 32, 1);
+    display: inline-block;
+    text-align: center;
+    padding-left: 18px;
+    position: relative;
+    bottom: 10px;   
+}
+.plus{
+    font-family: inter; 
+    font-weight: 700;
+    font-size: 64px;
+    font-style: bold;
+    color: rgba(255, 255, 255, 1);
+    width: 126px;
+    height: 51px;
+    position: relative;
+    left: 20px;
+    display: inline-block;
+}
+.Years{
+    font-family: inter;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    color: rgba(255, 255, 255, 1);
+    width: 188px;
+    height: 24px;
+    text-decoration: underline;
+    position: relative;
+    bottom: 60px;    
+    left: 20px;
+}
+.Trust{
+    font-family: inter;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    color: rgba(255, 255, 255, 1);
+    width: 85px;
+    height: 18px;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    bottom: 75px;
+}
+.star{
+    display: inline-block;
+    position: relative;
+    width: 132px;
+    height: 25px;
+    left: 20px;
+    bottom: 75px;
+}
+.int{
+    width: 235px;
+    height: 36px;
+    position: relative;
+    display: inline-block;
+    bottom: 1820px;
+    left: 230px;
+}
+.allabout{
+    font-family: inter;
+    font-weight: 900;
+    font-size: 20px;
+    color: rgba(244, 34, 43, 1);
+    text-decoration: underline;
+    font-style: black;
+
+}
+.parag1{
+    width: 652px;
+    height: 153px;
+    position: relative;
+    display: inline-block;
+    bottom: 1625px;
+    right: 5px;
+
+}
+.we{
+    font-family: inter;
+    font-weight: 700;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 1);
+   font-style: bold;
+   width: 619px;
+   height: 80px;
+}
+.value{
+    font-family: inter;
+    font-weight: 400;
+    font-size: 20px;
+    color:rgba(0, 0, 0, 0.73);
+     width: 640px;
+     height: 47px;
+
+}
+.parag2{
+    width: 320px;
+    height: 183px;
+    position: relative;
+    display: inline-block;
+    bottom: 1350px;
+    right: 655px;
+}
+.hdpic{
+    display: inline-block;
+    position: relative;
+    width: 65px;
+    height: 65px;
+}
+.ultra{
+    font-family: inter;
+    font-weight: 600;
+    font-size: 24px;
+     width: 229px;
+     height: 36px;
+     color: rgba(0, 0, 0, 1);
+     position: relative;
+     bottom: 20px;
+}
+.recep{
+    font-family: inter;
+    font-weight: 400;
+    font-size: 20px;
+     width: 320px;
+     height: 71px;
+     color: rgba(0, 0, 0, 1);
+     position: relative;
+     bottom: 45px;
+}
+
+.Secure{
+    font-family: inter;
+    font-weight: 600;
+    font-size: 24px;
+     width: 253px;
+     height: 36px;
+     color: rgba(0, 0, 0, 1);
+     position: relative;
+     bottom: 20px;
+}
+.parag3{
+    width: 320px;
+    height: 183px;
+    position: relative;
+    display: inline-block;
+    bottom: 1350px;
+    right: 655px;
+}
+.check{
+    width: 292px;
+    height: 91px;
+    position: relative;
+    bottom: 1350px;
+    left: 900px;
+}
+.checkpic{
+width: 25px;
+height: 25px;
+position: relative;
+display: inline-block;
+}
+.expert{
+    font-family: inter;
+    font-weight: 400;
+    font-size: 20px;
+     width: 353px;
+     color: rgba(0, 0, 0, 1);
+     position: relative;
+}
+.check1{
+    width: 226px;
+    height: 25px;
+    padding: 5px;
+
+}
+.checkwrap{
+width: 25px;
+height: 25px;
+position: relative;
+display: inline-block;
+top: 5px;
+}
+.checktextwrap{
+    width: 195px;
+    height: 24px;
+    position: relative;
+   display: inline-block;
+}
+.circlepic{
+width: 400px;
+height: 95px;
+position: relative;
+bottom: 1300px;
+left: 850px;
+}
+.circle4{
+    position: relative;
+    left: 180px;
+}
+.circle3{
+    position: relative;
+    left: 60px;
+    top: 10px;
+}
+.circle2{
+    position: relative; 
+    right: 60px;
+    bottom: 5px;
+}
+.circle1{
+    position: relative;  
+    right: 180px;
+}
+.reviewed{
+    font-family: inter; 
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: underline;
+    display: inline-block;
+    position: relative;
+    bottom: 1370px;
+    left: 1105px;
+}
+.newwrap{
+    width: 1512;
+    height: 923px;
+    right: 8px;
+    background-color: rgba(233, 233, 241, 1);
+    position: relative;
+    bottom: 600px;
+}
+.girlwrap{
+width: 859px;
+height: 859px;
+position: relative;
+left: 750px;
+top: 100px;
+}
+
+.PACKAGE{
+    width: 221px;
+    height: 36px;
+    display: inline-block;
+    position: relative;
+    bottom: 800px;
+    left: 130px;
+}
+.we2{
+    font-family: inter;
+    font-weight: 700;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 1);
+     font-style: bold;
+     width: 690px;
+     height: 80px;
+}
+.Choose{
+    width: 690px;
+    height: 80px;
+    position: relative;
+    display: inline-block;
+    bottom: 699px;
+    right: 95px;
+}
+.divlist>div{
+    display: inline-block;
+}
+.divlist{
+    width: 573px;
+    height: 59px;
+    display: inline-block;
+    padding: 20px;
+   position: relative;
+   bottom: 620px;
+   right: 808px;
+}
+.rotate{
+    font-family: inter;
+    font-size: 18px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+}
+.ten{
+    width: 175px;
+    height: 63px;
+    display: inline-block;
+    background-color: rgba(244, 34, 43, 1);
+
+}
+.twenty{
+    width: 175px;
+    height: 63px;
+    display: inline-block;
+    background-color:rgba(255, 255, 255, 1);
+    margin-left: 20px;
+
+}
+.unevendiv{
+    width: 639px;
+    height: 145px;
+    display: inline-block;
+    position: relative;
+    bottom: 580px;
+    left: 130px;
+    
+}
+.mon{
+    font-family: inter;
+    font-size: 24px;
+    font-weight: 600;
+    color:rgba(0, 0, 0, 0.67);
+    position: relative;
+    display: inline-block;
+   left: 30px;
+   bottom: 35px;
+}
+.eigth{
+    font-family: inter;
+    font-weight: 900;
+    font-style: black;
+    font-size: 64px;
+    color:  rgba(214, 17, 32, 1);
+    position: relative;
+    display: inline-block;
+    bottom: 35px;
+    left: 30px;
+}
+.three{
+    font-family: inter;
+    font-weight: 900;
+    font-style: black;
+    font-size: 64px;
+    color: rgba(0, 0, 0, 1);
+    position: relative;
+    display: inline-block;
+    bottom: 35px;
+    left: 30px;
+}
+.peso{
+    font-family: inter; 
+   color: rgba(0, 0, 0, 0.67);
+   font-size: 20px;
+   position: relative;
+    display: inline-block;
+    bottom: 35px;
+    left: 30px;
+}
+
+.eighthun{
+    position: relative;
+    display: inline-block;
+    background-color:rgba(255, 255, 255, 1);
+    width: 293px;
+    height: 145px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(212, 17, 26, 1);
+    border-width: 2px;
+}
+.threehun{
+    position: relative;
+    display: inline-block;
+    height: 91px;
+    border-radius: 5px;
+}
+.che{
+    width: 292px;
+    height: 91px;
+    position: relative; 
+    bottom: 500px;
+    left: 120px;
+}
+.lastredwrap{
+width: 2000px;
+height: 49px;
+background-color:  rgba(214, 17, 32, 1);
+position: relative;
+right: 25px;
+bottom: 600px;
+}
+/*  */
+
+.graywrap{
+    width: 1912px;
+    height: 922px;
+    position: relative;
+    background-color:  rgba(36, 35, 43, 1);
+    right: 8px;
+    top: 140px;
+}
+.picandtext{
+    width: 1306px;
+    height: 763px;
+    position: relative;
+}
+.headingtext{
+    width: 823px;
+    height: 130px;
+    position: relative;
+    text-align: center;
+    top: 100px;
+    left: 500px;
+    
+}
+.INVESTORSintro{
+    font-family: inter;
+    font-weight: 700;
+    font-size: 32px;
+    position: relative;
+    bottom: 20px;
+    color:rgba(255, 255, 255, 1);
+    text-align: center;
+}
+.tanperson{
+    width: 313px;
+    height: 480px;
+    position: relative;
+    display: inline-block;
+    left: 250px;
+    top: 150px;
+}
+.name{
+    font-family: inter;
+    font-weight: 300;
+    font-size: 19px;
+    font-style: light;
+    color: rgba(255, 255, 255, 1);
+   text-align: center;
+    width: 291px;
+    height: 46px;position: relative;
+    bottom: 10px;
+}
+.tan{
+    
+    position: relative;
+    display: inline-block;
+    border-radius: 5px;
+}
+.redicon{
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}
+.Datuperson{
+    width: 313px;
+    height: 480px;
+    position: relative;
+    display: inline-block;
+    left: 260px;
+    top: 150px;
+}
+.iconwrapper{
+    width: 313px;
+    height: 429px;
+    position: relative;
+    display: inline-block;
+}
+.Kingperson{
+    width: 313px;
+    height: 480px;
+    position: relative;
+    display: inline-block;
+    top: 128px;
+    left: 270px;
+}
+.Presidentperson{
+    width: 313px;
+    height: 480px;
+    position: relative;
+    display: inline-block;
+    top: 150px;
+    left: 280px;
+}
+.be{
+    font-family: inter;
+    font-weight: 900;
+    font-size: 20px;
+    color:  rgba(255, 255, 255, 1);
+    position: absolute;
+    display: inline-block;
+    background-color:  rgba(214, 17, 32, 1);
+    border-style: none;
+    width: 311px;
+    height: 61px;
+    border-radius: 10px;
+    right: 250px;
+    top: 800px;
+}
+
+
