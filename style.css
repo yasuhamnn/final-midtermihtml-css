@@ -71,7 +71,7 @@ body{
     .whitewrap{
        
         background-color: rgba(255, 255, 255, 1); 
-        width: 100%;
+        width: 2000px;
         height: 87px;
         position: relative;
         right: 10px;
@@ -101,9 +101,9 @@ body{
     .menu{
         font-family: inter;
         font-weight: 500;
-        font-size: 22px;
+        font-size: 25px;
         padding-top: 10px;
-        padding-left: 30px;
+        padding-left: 15px;
         text-decoration: none;
         color: rgba(0, 0, 0, 1);
 
@@ -113,7 +113,7 @@ body{
     list-style: none;
     text-align: center;
     position: relative;
-    right: 22px;
+    right: 90px;
     }
     .barmenu>li{
         display: inline-block;
@@ -138,6 +138,8 @@ body{
         position: relative;
         left: 30px;
         display: inline-block;
+        width: 40px;
+        height: 40px;
     }
     .cart1{
         position: relative;
@@ -149,13 +151,14 @@ body{
     .cart10{
         position: relative;
         display: inline-block;
-        width: 50px;
+        width: 43px;
+        height: 43px;
     }
     
     .cart5{
         display: inline-block;
         position: relative;
-        margin-left: 5px;
+        left: 10px;
         
     }
     .num{
@@ -177,7 +180,7 @@ body{
         background-color:rgba(212, 17, 26, 1); 
         border-radius: 100%;
         bottom: 20px;
-        right: 20px; 
+        right: 10px; 
     }
     .pic{
         width: 1912px;
@@ -380,6 +383,17 @@ body{
         left: 40px;
         text-align: left;
     }
+    .d2escrip{
+        font-family: inter;
+        font-weight: 400;
+        font-size: 20px;
+        width: 268px;
+        height: 86px;
+        position: relative;
+        top: 80px;
+        left: 40px;
+        text-align: left;
+    }
     .div2{
     width: 319px;
     height: 372px;
@@ -399,7 +413,8 @@ body{
         height: 25px;
         left: 40px;
         position: relative;
-        top: 50px;
+        top: 75px;
+        color: rgba(255, 255, 255, 1);
     }
     
     .div3{
@@ -498,6 +513,7 @@ body{
     .warning{
     position: absolute;
     padding-left: 55px;
+    top: 5px;
     }
     .rate{
         font-family: inter; 
@@ -592,6 +608,15 @@ body{
        width: 619px;
        height: 80px;
     }
+    .we2{
+        font-family: inter;
+        font-weight: 700;
+        font-size: 40px;
+        color: rgba(0, 0, 0, 1);
+       font-style: bold;
+       width: 679px;
+       height: 80px;
+    }
     .value{
         font-family: inter;
         font-weight: 400;
@@ -674,7 +699,15 @@ body{
         font-weight: 400;
         font-size: 20px;
          width: 353px;
-         color: rgba(0, 0, 0, 1);
+         color:  rgba(0, 0, 0, 1);
+         position: relative;
+    }
+    .expert2{
+        font-family: inter;
+        font-weight: 200;
+        font-size: 29px;
+         width: 353px;
+         color:  rgba(0, 0, 0, 1);
          position: relative;
     }
     .check1{
@@ -860,7 +893,7 @@ body{
        font-size: 20px;
        position: relative;
         display: inline-block;
-        bottom: 35px;
+        bottom: 55px;
         left: 30px;
     }
     
@@ -907,6 +940,7 @@ height: 46px;    }
 font-family: inter;
 font-size: 38px;
 font-weight: 400;
+text-decoration: underline;
 
 }
     /*  */
@@ -1004,8 +1038,8 @@ font-weight: 400;
     }
     .be{
         font-family: inter;
-        font-weight: 900;
-        font-size: 20px;
+        font-weight: 700;
+        font-size: 28px;
         color:  rgba(255, 255, 255, 1);
         position: absolute;
         display: inline-block;
@@ -1055,6 +1089,16 @@ background-color:rgba(214, 17, 32, 1);
 border-radius: 5px;
 top: 20px;
 left: 20px;
+}
+.texthot{
+    font-family: inter;
+        font-weight: 800;
+        font-size: 20px;
+        position: relative;
+        color:rgba(255, 255, 255, 1);
+        text-align: center;
+        bottom: 10px;
+        
 }
 
     .duhadivpic{
@@ -1185,8 +1229,8 @@ bottom: 1200px;
 }
 .bttn{
     font-family: inter;
-        font-weight: 900;
-        font-size: 20px;
+        font-weight: 700;
+        font-size: 28px;
         color:  rgba(255, 255, 255, 1);
         position: absolute;
         display: inline-block;
