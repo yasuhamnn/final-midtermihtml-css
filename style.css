@@ -559,7 +559,7 @@ body{
         height: 36px;
         position: relative;
         display: inline-block;
-        bottom: 1820px;
+        bottom: 2098px;
         left: 230px;
     }
     .allabout{
@@ -576,7 +576,7 @@ body{
         height: 153px;
         position: relative;
         display: inline-block;
-        bottom: 1625px;
+        bottom: 1890px;
         right: 5px;
     
     }
@@ -604,7 +604,7 @@ body{
         height: 183px;
         position: relative;
         display: inline-block;
-        bottom: 1350px;
+        bottom: 1600px;
         right: 655px;
     }
     .hdpic{
@@ -650,14 +650,14 @@ body{
         height: 183px;
         position: relative;
         display: inline-block;
-        bottom: 1350px;
+        bottom: 1600px;
         right: 655px;
     }
     .check{
         width: 292px;
         height: 91px;
         position: relative;
-        bottom: 1350px;
+        bottom: 1600px;
         left: 900px;
     }
     .checkpic{
@@ -697,7 +697,7 @@ body{
     width: 400px;
     height: 95px;
     position: relative;
-    bottom: 1300px;
+    bottom: 1540px;
     left: 850px;
     }
     .circle4{
@@ -725,7 +725,7 @@ body{
         text-decoration: underline;
         display: inline-block;
         position: relative;
-        bottom: 1370px;
+        bottom: 1609px;
         left: 1105px;
     }
     .newwrap{
@@ -734,7 +734,7 @@ body{
         right: 8px;
         background-color: rgba(233, 233, 241, 1);
         position: relative;
-        bottom: 600px;
+        bottom: 800px;
     }
     .girlwrap{
     width: 859px;
@@ -883,7 +883,7 @@ body{
         width: 292px;
         height: 91px;
         position: relative; 
-        bottom: 500px;
+        bottom: 550px;
         left: 100px;
     }
     .lastredwrap{
@@ -892,8 +892,20 @@ body{
     background-color:  rgba(214, 17, 32, 1);
     position: relative;
     right: 25px;
-    bottom: 600px;
+    bottom: 799px;
     }
+    .baldowrap{
+        position: relative;
+        display: inline-block;
+        width: 398px;
+        top: 30px;
+height: 46px;    }
+.baldo{
+font-family: inter;
+font-size: 38px;
+font-weight: 400;
+
+}
     /*  */
     
     .graywrap{
@@ -1191,3 +1203,35 @@ bottom: 1200px;
     right: 25px;
     top: 215px;
 }
+
+.int2{
+    width: 235px;
+    height: 36px;
+    position: relative;
+    display: inline-block;
+    bottom: 1910px;
+    left: 230px;
+}
+.parag12{
+    width: 652px;
+    height: 153px;
+    position: relative;
+    display: inline-block;
+    bottom: 1890px;
+    right: 5px;}
+    .parag22{
+        width: 320px;
+        height: 183px;
+        position: relative;
+        display: inline-block;
+        bottom: 1600px;
+        right: 655px;
+    }
+    .parag32{
+        width: 320px;
+        height: 183px;
+        position: relative;
+        display: inline-block;
+        bottom: 1600px;
+        right: 655px;
+    }
