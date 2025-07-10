@@ -104,6 +104,9 @@ body{
         font-size: 22px;
         padding-top: 10px;
         padding-left: 30px;
+        text-decoration: none;
+        color: rgba(0, 0, 0, 1);
+
     }
     .barmenu
     {
@@ -1209,7 +1212,7 @@ bottom: 1200px;
     height: 36px;
     position: relative;
     display: inline-block;
-    bottom: 1910px;
+    bottom: 1809px;
     left: 230px;
 }
 .parag12{
@@ -1217,14 +1220,15 @@ bottom: 1200px;
     height: 153px;
     position: relative;
     display: inline-block;
-    bottom: 1890px;
+    bottom: 1580px;
     right: 5px;}
-    .parag22{
+.parag22
+{
         width: 320px;
         height: 183px;
         position: relative;
         display: inline-block;
-        bottom: 1600px;
+        bottom: 1300px;
         right: 655px;
     }
     .parag32{
@@ -1232,6 +1236,6 @@ bottom: 1200px;
         height: 183px;
         position: relative;
         display: inline-block;
-        bottom: 1600px;
+        bottom: 1300px;
         right: 655px;
     }
