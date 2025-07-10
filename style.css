@@ -94,6 +94,10 @@ body{
      position: absolute;
      bottom: 45px;
     }
+   
+    .li{
+        color: rgba(212, 17, 26, 1); 
+    }
     .menu{
         font-family: inter;
         font-weight: 500;
@@ -123,8 +127,8 @@ body{
     }
     .cartearchmenu
     {
-    position: absolute;
-       margin-left: 1470px;
+       position: absolute;
+       margin-left: 1490px;
        bottom: 20px;
     }
     .cart{
